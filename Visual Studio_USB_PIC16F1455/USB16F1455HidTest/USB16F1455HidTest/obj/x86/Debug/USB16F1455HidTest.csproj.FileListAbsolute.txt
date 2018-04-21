@@ -1,0 +1,22 @@
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\USB16F1455HidTest\bin\Debug\USB16F1455HidTest.exe
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\USB16F1455HidTest\bin\Debug\USB16F1455HidTest.pdb
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\USB16F1455HidTest\bin\Debug\UsbHid.dll
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\USB16F1455HidTest\bin\Debug\UsbHid.pdb
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.csprojResolveAssemblyReference.cache
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.FrmMain.resources
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.Properties.Resources.resources
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.csproj.GenerateResource.Cache
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.exe
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.pdb
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.exe
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.pdb
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\USB16F1455HidTest\bin\Debug\USB16F1455HidTest.exe
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\USB16F1455HidTest\bin\Debug\USB16F1455HidTest.pdb
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\USB16F1455HidTest\bin\Debug\UsbHid.dll
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\USB16F1455HidTest\bin\Debug\UsbHid.pdb
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.csprojResolveAssemblyReference.cache
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.FrmMain.resources
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.Properties.Resources.resources
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.csproj.GenerateResource.Cache
+D:\Alex-Martin\Проекти\Electronic\Microchip PIC\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.exe
+D:\Alex-Martin\Проекти\Electronic\Microchip PIC\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\USB16F1455HidTest\obj\x86\Debug\USB16F1455HidTest.pdb

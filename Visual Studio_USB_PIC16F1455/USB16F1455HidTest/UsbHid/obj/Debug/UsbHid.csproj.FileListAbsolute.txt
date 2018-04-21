@@ -1,0 +1,14 @@
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\UsbHid\bin\Debug\UsbHid.dll
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\UsbHid\bin\Debug\UsbHid.pdb
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\UsbHid\obj\Debug\UsbHid.csprojResolveAssemblyReference.cache
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.Cache
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\UsbHid\obj\Debug\UsbHid.dll
+C:\Users\Alex-Martin\Desktop\USB16F1455HidTest\USB16F1455HidTest\UsbHid\obj\Debug\UsbHid.pdb
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\UsbHid\bin\Debug\UsbHid.dll
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\UsbHid\bin\Debug\UsbHid.pdb
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\UsbHid\obj\Debug\UsbHid.csprojResolveAssemblyReference.cache
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.Cache
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\UsbHid\obj\Debug\UsbHid.dll
+C:\Users\Alex-Martin\Desktop\Microchip PIC and USB ptc\Visual Studio_USB_PIC16F1455\USB16F1455HidTest\UsbHid\obj\Debug\UsbHid.pdb
